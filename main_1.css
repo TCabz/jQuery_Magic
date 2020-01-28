@@ -1,0 +1,74 @@
+body {    
+    background-color: rgb(223, 223, 247);
+    height: 2400vh;
+    /* -  In your `main.css` file, add a css rule where all text will align center inside the `body` */
+    font-family: fantasy;
+    text-align: center;
+}
+
+.hp-title{
+    height: 20px;
+}
+
+.hp-lax{
+    height: 90px;
+}
+
+.main{
+    postion; fixed;
+    justify-items: right;
+}
+
+.sketch{
+    width: 100%;
+}
+
+.container{
+    border: solid red;
+    background-color: rgba(104, 14, 14, 0.39%);
+    margin-bottom: 22%;
+    width: 100%
+    color white;
+}
+
+.year2{
+    background-color: rgb(78, 72, 72, 85);
+    width: 40%;
+    margin-left: 35%;
+    justify-content: center;
+}
+
+span{
+    font-family: "Times New Roman", Times, Serif;
+    /* border: solid green; */
+    padding: 5px;
+    border-radius: 25px;
+}
+
+.trunk{
+    /* background-color: rgb (78,72, 72, 85); */
+    color: lemonchiffon;
+    font-size: 25px;
+    list-style: none;
+}
+
+.secret{
+    opacity: 0.99;
+    list-style: none;
+    text-align: center;
+}
+
+.jellyBean{
+    opacity: 0.5;
+}
+
+.tbody{
+    border: solid black;
+}
+
+.nextParent{
+    background-color: rgb (78, 72, 72, 85);
+    color: rgb(247, 227, 54);
+    padding: 1cm;
+    text-align: center;
+}}
